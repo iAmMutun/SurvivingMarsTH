@@ -257,8 +257,8 @@ id <u(id)>, version <version></color>",
 1000262,<arg1> R,
 1000263,<arg1> G,
 1000264,<arg1> B,
-1000265,On,
-1000266,Off,
+1000265,On,เปิด
+1000266,Off,ปิด
 1000267,(press any key),
 1000268,None,
 1000269,Backspace,
@@ -8370,9 +8370,9 @@ There will be challenges to overcome. Are you ready? Mars is waiting for you.",
 7379,High,
 3551,Ultra,
 7380,High,
-6844,Off,
+6844,Off,ปิด
 3555,FXAA,
-6845,Off,
+6845,Off,ปิด
 3556,2x,
 7969,4x,
 7970,8x,
@@ -8381,11 +8381,11 @@ There will be challenges to overcome. Are you ready? Mars is waiting for you.",
 644,Low,
 645,Medium,
 7382,High,
-6846,Off,
-6847,On,
-6848,Off,
-6849,On,
-6850,Off,
+6846,Off,ปิด
+6847,On,เปิด
+6848,Off,ปิด
+6849,On,เปิด
+6850,Off,ปิด
 3558,FPS,
 3559,ms,
 3560,Move Units,
@@ -9322,27 +9322,27 @@ Some features may not work.",
 7556,<ButtonA> Create route mode,
 4519,Max Amount Waste Rock,
 4520,Waste Rock<right><Stored_WasteRock>/<MaxAmount_WasteRock>,
-6954,Off,
-6955,Off,
-6956,Off,
-6957,Off,
-6958,Off,
-6959,Off,
-6960,Off,
-6961,Off,
-6962,Off,
-6963,Off,
-6964,Off,
-6965,Off,
-6966,Off,
-6967,Off,
-6968,Off,
-6969,Off,
-6970,Off,
-6971,Off,
-6972,Off,
+6954,Off,ปิด
+6955,Off,ปิด
+6956,Off,ปิด
+6957,Off,ปิด
+6958,Off,ปิด
+6959,Off,ปิด
+6960,Off,ปิด
+6961,Off,ปิด
+6962,Off,ปิด
+6963,Off,ปิด
+6964,Off,ปิด
+6965,Off,ปิด
+6966,Off,ปิด
+6967,Off,ปิด
+6968,Off,ปิด
+6969,Off,ปิด
+6970,Off,ปิด
+6971,Off,ปิด
+6972,Off,ปิด
 1000120,<arg1> x <arg2>,
-6973,Off,
+6973,Off,ปิด
 3956,Research <em><tech_name></em> to unlock this building.,
 263,Cost: ,
 3959,Consumption: ,
@@ -9630,8 +9630,8 @@ Some features may not work.",
 494688646361,PAUSE,
 326024522451,RESUME,
 415232371915,<pin_summary1>,
-498175633247,On,
-222832671596,Off,
+498175633247,On,เปิด
+222832671596,Off,ปิด
 7875,(  ),
 702142953137,RADIO STATION,
 717950591874,Volume,

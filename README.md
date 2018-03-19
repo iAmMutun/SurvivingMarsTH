@@ -9,7 +9,7 @@
 ### วิธีสร้างไฟล์เพิ่มเติม
 * เนื่องจากตัวเกมไม่มีฟอนต์ภาษาไทยในตัว จึงต้องทำการแก้ไขไฟล์ hpk เพื่อเพิ่มเติมฟอนต์ในเกม
 * ดาวน์โหลดโปรแกรมจัดการไฟล์ hpk จาก https://github.com/nickelc/hpk/releases
-* สร้างโหลเดอร์เปล่าๆ `Packs/Fonts/`
+* สร้างโฟลเดอร์เปล่าๆ `Packs/Fonts/`
 * ค้นหาโฟลเดอร์ที่ติดตั้งเกม เช่น `C:/Program Files/Steam/steamapps/common/Surviving Mars`
 * แตกไฟล์ด้วยคำสั่ง `hpk.exe extract [IntallationDir]/Packs/Fonts.hpk Packs/Fonts` โดยที่ [IntallationDir] คือโฟลเดอร์ที่ติดตั้งเกม
 * ดาวน์โหลดฟอนต์และนำไฟล์ .ttf ไปไว้ในโฟลเดอร์ `Packs/Fonts/`

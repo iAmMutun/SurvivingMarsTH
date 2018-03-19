@@ -9,9 +9,9 @@
 ### วิธีสร้างไฟล์เพิ่มเติม
 * เนื่องจากตัวเกมไม่มีฟอนต์ภาษาไทยในตัว จึงต้องทำการแก้ไขไฟล์ Fonts.hpk เพื่อเพิ่มเติมฟอนต์ในเกม
 * ดาวน์โหลดโปรแกรมจัดการไฟล์ HPK จาก https://github.com/nickelc/hpk/releases
-* คัดลอกไฟล์ Fonts.hpk จากโฟลเดอร์เกม (C:/Program Files/Steam/steamapps/common/Surviving Mars/Packs) มาไว้ใน [Packs/](Packs/)
-* แตกไฟล์ `hpk.exe extract Packs/Fonts.hpk Packs/Fonts`
+* แตกไฟล์ `hpk.exe extract <IntallationDir>/Packs/Fonts.hpk Packs/Fonts` โดยที่ <IntallationDir> คือโฟลเดอร์ที่ติดตั้งเกม เช่น `C:/Program Files/Steam/steamapps/common/Surviving Mars`
 * ดาวน์โหลดฟอนต์และนำไฟล์ .ttf ไปไว้ในโฟลเดอร์ [Packs/Fonts/](Packs/Fonts/)
     * [Ekkamai Standard](http://www.f0nt.com/release/ekkamai-standard/)
     * [Thai Sans Lite](http://www.f0nt.com/release/thai-sans-lite/)
-* รวมไฟล์ `hpk.exe create --compress Packs/Fonts/ Fonts.hpk`
+* รวมไฟล์ฟอนต์ `hpk.exe create --compress Packs/Fonts/ Fonts.hpk`
+* สร้างไฟล์ HPK เปล่าๆสำหรับบอกเกมให้รองรับภาษาไทย `hpk.exe create Local/Thai Local/Thai.hpk`

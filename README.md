@@ -1,7 +1,7 @@
 # Surviving Mars Thai Translations
 ### สำหรับผู้เล่นที่ต้องการร่วมทดสอบ
 1. กดสมัครสมาชิกบนสตีมเวิร์กชอปที่ http://steamcommunity.com/sharedfiles/filedetails/?id=1335965052
-2. ดาวน์โหลดและติดตั้งไฟล์เพิ่มเติมที่ https://github.com/iAmMutun/SurvivingMarsTH/releases/tag/dep1
+2. อ่านวิธีการดาวน์โหลดและติดตั้งไฟล์เพิ่มเติมที่ https://github.com/iAmMutun/SurvivingMarsTH/releases/tag/dep1
 
 ### แปลไทย
 ร่วมแปลภาษาไทยได้ในไฟล์ [Thai Translations/Game.csv](Thai%20Translations/Game.csv)

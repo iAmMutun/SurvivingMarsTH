@@ -11,7 +11,7 @@
 * ดาวน์โหลดโปรแกรมจัดการไฟล์ hpk จาก https://github.com/nickelc/hpk/releases
 * สร้างโฟลเดอร์เปล่าๆ `Packs/Fonts/`
 * ค้นหาโฟลเดอร์ที่ติดตั้งเกม เช่น `C:/Program Files/Steam/steamapps/common/Surviving Mars`
-* แตกไฟล์ด้วยคำสั่ง `hpk.exe extract [IntallationDir]/Packs/Fonts.hpk Packs/Fonts` โดยที่ [IntallationDir] คือโฟลเดอร์ที่ติดตั้งเกม
+* แตกไฟล์ด้วยคำสั่ง `hpk.exe extract '[IntallationDir]/Packs/Fonts.hpk' 'Packs/Fonts'` โดยที่ [IntallationDir] คือโฟลเดอร์ที่ติดตั้งเกม
 * ดาวน์โหลดฟอนต์และนำไฟล์ .ttf ไปไว้ในโฟลเดอร์ `Packs/Fonts/`
     * [Ekkamai Standard](http://www.f0nt.com/release/ekkamai-standard/)
     * [Thai Sans Lite](http://www.f0nt.com/release/thai-sans-lite/)

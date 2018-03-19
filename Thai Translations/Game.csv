@@ -178,12 +178,12 @@ id <u(id)>, version <version></color>",
 1000137,New Element,
 1000138,New XTemplate,
 1000139,Preview XTemplate,
-1000615,Delete,
+1000615,Delete,ลบ
 1000245,Redo,
 1000616,OK,ตกลง
-1000246,Cancel,
+1000246,Cancel,ยกเลิก
 1000617,OK,ตกลง
-1000247,Cancel,
+1000247,Cancel,ยกเลิก
 1000140,Hide/show all properties with default values,
 189736641365,View Object,
 566561671803,Open Entity Editor,
@@ -192,9 +192,9 @@ id <u(id)>, version <version></color>",
 102672884722,Convert to Object,
 173123111544,Remove Duplicated,
 180179795778,Invert Selection,
-381730822640,Delete,
+381730822640,Delete,ลบ
 1000248,Remove Unselected,
-623390947398,Save,
+623390947398,Save,เซฟ
 400353986243,Open Folder,
 186760604064,Test,
 342669996355,Upload,
@@ -205,17 +205,17 @@ id <u(id)>, version <version></color>",
 1000142,New <u(item_name)>,
 888280433864,File,
 1000143,New Mod,
-885629433849,Load,
-327465361219,Edit,
+885629433849,Load,โหลด
+327465361219,Edit,แก้ไข
 408637015506,Delete Mod,
 791482327441,Help,
 234124121113,Fetch from selection,
 1000716,Reapply All,
 377547327617,New Prg,
-301269983303,Save,
+301269983303,Save,เซฟ
 102133798674,Move Out,
 978910231685,Move In,
-505747953509,Delete,
+505747953509,Delete,ลบ
 1000250,Redo,
 1000251,Prg,
 298035641454,Object,
@@ -231,7 +231,7 @@ id <u(id)>, version <version></color>",
 1000144,<class> <color 128 128 128><Id><PlacementText>,
 1000252,New Update Available,
 1000253,Download & Install,
-1000254,Cancel,
+1000254,Cancel,ยกเลิก
 1000255,Download error,
 1000256,"Download failed, please try again later.",
 1000257,Connected to <host>:<port>,
@@ -279,7 +279,7 @@ id <u(id)>, version <version></color>",
 1000284,Down,
 1000285,PrtScr,
 1000286,Insert,
-1000287,Delete,
+1000287,Delete,ลบ
 1000288,0,
 1000289,1,
 1000290,2,
@@ -409,7 +409,7 @@ id <u(id)>, version <version></color>",
 1000164,<image UI/Icons/action_esc.tga 2000> Skip,
 1000416,OK,ตกลง
 1000417,OK,ตกลง
-1000418,Cancel,
+1000418,Cancel,ยกเลิก
 1000419,Connecting to <host>:<port>,
 1000420,Error connecting to server: <err>,
 1000421,Joining <game>,
@@ -418,12 +418,12 @@ id <u(id)>, version <version></color>",
 1000424,Connection established,
 1000425,Pause,
 1000426,OK,ตกลง
-1000427,Cancel,
+1000427,Cancel,ยกเลิก
 1000428,Enter Text Here:,
 1000429,OK,ตกลง
-1000430,Cancel,
+1000430,Cancel,ยกเลิก
 1000431,OK,ตกลง
-1000432,Cancel,
+1000432,Cancel,ยกเลิก
 1000433,OK,ตกลง
 1000434,Server,
 1000435,Game,
@@ -431,7 +431,7 @@ id <u(id)>, version <version></color>",
 1000437,Username,
 1000438,Password,
 1000439,OK,ตกลง
-1000440,Cancel,
+1000440,Cancel,ยกเลิก
 1000441,Join Net Game,
 1000442,Controls:,
 1000443,<center>Controls Palette,
@@ -465,7 +465,7 @@ id <u(id)>, version <version></color>",
 1000460,Down,
 1000461,PrtScr,
 1000462,Insert,
-1000463,Delete,
+1000463,Delete,ลบ
 1000464,0,
 1000465,1,
 1000466,2,
@@ -645,7 +645,7 @@ id <u(id)>, version <version></color>",
 135515637285,Store in 'o3',
 866772482434,New Preset,
 502364928914,Delete Preset,
-606395244135,Save,
+606395244135,Save,เซฟ
 876718755482,Move Up,
 882087082346,Move Down,
 885977304658,Undo,
@@ -662,7 +662,7 @@ id <u(id)>, version <version></color>",
 1000202,Action 2,
 1000203,Action 3,
 243550090910,File,
-357531548191,Edit,
+357531548191,Edit,แก้ไข
 1000204,View,
 1000205,New File,
 1000206,Open File,
@@ -8915,7 +8915,7 @@ Some features may not work.",
 4064,Modifiers,
 6877,OK,ตกลง
 6878,OK,ตกลง
-6879,Cancel,
+6879,Cancel,ยกเลิก
 4083,<u(control_img)><action>,
 4084,<u(control_img)><action>,
 4169,MAPS,
@@ -8928,7 +8928,7 @@ Some features may not work.",
 4074,This mod requires a newer game version!,
 1124,<tag> (<count>),
 6900,OK,ตกลง
-3687,Cancel,
+3687,Cancel,ยกเลิก
 6899,Warning,คำเตือน
 8080,Restart,
 8496,Activating or deactivating mods requires a restart.,
@@ -9094,7 +9094,7 @@ Some features may not work.",
 4185,Unidentified error while saving <savename>!<newline>Error code: <error_code>,
 4186,"""",
 6912,OK,ตกลง
-6913,Cancel,
+6913,Cancel,ยกเลิก
 4229,Add Funding (<funding(500000)>),
 4230,Available,
 4231,Get,
@@ -9102,7 +9102,7 @@ Some features may not work.",
 4233,<= Remove,
 4234,Selected ,
 6914,OK,ตกลง
-6915,Cancel,
+6915,Cancel,ยกเลิก
 4251,Meteor,
 4255,Control X Axis of Anchored Object,
 4256,Control Y Axis of Anchored Object,
@@ -9116,7 +9116,7 @@ Some features may not work.",
 6921,Experimental Vehicle,
 6922,"A remote-controlled vehicle, property of EsoCorp.",
 6923,"A remote-controlled combat vehicle, reclaimed by the Colony. Protects against meteor strikes and EsoCorp vehicles.",
-6720,Cancel,
+6720,Cancel,ยกเลิก
 6925,Send Drones to this vehicle.,
 6926,Cancel repairs.,
 6924,Repair,
@@ -9472,7 +9472,7 @@ Some features may not work.",
 7580,<DPadLeft> Change value <DPadRight>,
 7730,Invalid input,
 7731,<field> should be in the format <format>,
-7976,SKIP,
+7976,SKIP,ข้าม
 1000159,Escape,
 856797454991,ACHIEVEMENTS,
 599355083725,Unlocked <white><unlocked> / <total>,
@@ -9995,7 +9995,7 @@ Current status: Exports are <em>forbidden</em>.",
 369,Change Priority,
 577516035564,<left><left_click> Increase priority<right><right_click> Decrease priority,
 870954837374,<left><ButtonA> Increase priority<right><ButtonX> Decrease priority,
-6764,Cancel,
+6764,Cancel,ยกเลิก
 699,Cancel demolition.,
 697,Destroy,
 698,Destroy this pile of cubes.,

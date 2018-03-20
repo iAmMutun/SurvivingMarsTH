@@ -121,17 +121,17 @@ id <u(id)>, version <version></color>",
 1000710,Auto,
 1000119,<FormatResolution(pt)>,
 1000121,Default,
-1000122,Display,
-1000123,DISPLAY,
-1000124,Video,
-1000125,VIDEO,
-1000126,Audio,
-1000127,AUDIO,
-1000128,Controls,
-1000129,CONTROLS,
-1000131,GAMEPLAY,
-1000132,Key Bindings,
-1000133,KEY BINDINGS,
+1000122,Display,หนาจอ
+1000123,DISPLAY,หนาจอ
+1000124,Video,ภาพ
+1000125,VIDEO,ภาพ
+1000126,Audio,เสียง
+1000127,AUDIO,เสียง
+1000128,Controls,การควบคุม
+1000129,CONTROLS,การควบคุม
+1000131,GAMEPLAY,ระบบเกม
+1000132,Key Bindings,ปรับแตงคียลัด
+1000133,KEY BINDINGS,ปรับแตงคียลัด
 1000134,Change Profile,
 1000135,CHANGE PROFILE,
 1000217,Checking for downloadable content... Please wait.,
@@ -6018,8 +6018,8 @@ There will be challenges to overcome. Are you ready? Mars is waiting for you.",
 - Mega Dome: The most advanced and spacious dome design.",
 1080,Surviving Mars Platinum Trophy,
 1081,Collected all remaining Surviving Mars trophies,
-7808,Credits,
-7809,CREDITS,
+7808,Credits,ทีมงาน
+7809,CREDITS,ทีมงาน
 8057,Switch To Controller?,
 7810,Do you want to command the game with a controller?,
 7872,There are colonists suffering from status effects.,
@@ -10290,7 +10290,7 @@ Current status: Exports are <em>forbidden</em>.",
 4825,Upgrade 3,
 4826,Pin,
 4827,Interaction,
-1000130,Gameplay,
+1000130,Gameplay,ระบบเกม
 4829,Cost,
 4290,Colonist,
 3715,Stat,

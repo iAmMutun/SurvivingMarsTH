@@ -21,3 +21,7 @@
 * นำไฟล์ Fonts.hpk ไปแทนที่ไฟล์เก่าในโฟลเดอร์ที่ติดตั้งเกม (กรุณาสำรองไฟล์ Fonts.hpk เก่าก่อนแทนที่)
 * สร้างไฟล์ HPK เปล่าๆสำหรับบอกเกมให้รองรับภาษาไทยด้วยคำสั่ง `hpk.exe create Local/Thai Local/Thai.hpk`
 * นำไฟล์ Thai.hpk ไปเพิ่มไว้ในโฟลเดอร์ย่อย Local ของโฟลเดอร์ที่ติดตั้งเกม
+
+### tuftmf
+โปรแกรมแก้สระลอย Thai Unicode Floating Tone Marks Fixer (TUFTMT)
+https://github.com/iAmMutun/tuftmf

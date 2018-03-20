@@ -4,7 +4,9 @@
 2. อ่านวิธีการดาวน์โหลดและติดตั้งไฟล์เพิ่มเติมที่ https://github.com/iAmMutun/SurvivingMarsTH/releases/tag/dep1
 
 ### แปลไทย
-ร่วมแปลภาษาไทยได้ในไฟล์ [Thai Translations/Game.csv](Thai%20Translations/Game.csv)
+ร่วมแปลภาษาไทยได้ในไฟล์ [Game.csv](Game.csv) กรุณางดแก้ไขไฟล์ Game.csv ในโฟลเดอร์ Thai Translations
+
+สำหรับทีมแปลที่ใช้งานบน Windows ให้เรียกใช้คำสั่ง `.\tuftmf_x64.exe .\Game.csv '.\Thai Translations\Game.csv'` หลังการแปลเพื่อรันโปรแกรมแก้ไขสระลอย ก่อนทำการโหลดม็อดเข้าเกม หรืออัพโหลดขึ้นเวิร์กชอป
 
 ### วิธีสร้างไฟล์เพิ่มเติม
 * เนื่องจากตัวเกมไม่มีฟอนต์ภาษาไทยในตัว จึงต้องทำการแก้ไขไฟล์ hpk เพื่อเพิ่มเติมฟอนต์ในเกม

@@ -16,7 +16,7 @@
 * แตกไฟล์ด้วยคำสั่ง `hpk.exe extract '[IntallationDir]/Packs/Fonts.hpk' 'Packs/Fonts'` โดยที่ [IntallationDir] คือโฟลเดอร์ที่ติดตั้งเกม
 * ดาวน์โหลดฟอนต์และนำไฟล์ .ttf ไปไว้ในโฟลเดอร์ `Packs/Fonts/`
     * [Ekkamai Standard](http://www.f0nt.com/release/ekkamai-standard/)
-    * [Thai Sans Lite](http://www.f0nt.com/release/thai-sans-lite/)
+    * [iannnnnGMO](http://www.f0nt.com/release/iannnnngmo/)
 * รวมไฟล์ฟอนต์ด้วยคำสั่ง `hpk.exe create --compress Packs/Fonts/ Packs/Fonts.hpk`
 * นำไฟล์ Fonts.hpk ไปแทนที่ไฟล์เก่าในโฟลเดอร์ที่ติดตั้งเกม (กรุณาสำรองไฟล์ Fonts.hpk เก่าก่อนแทนที่)
 * สร้างไฟล์ HPK เปล่าๆสำหรับบอกเกมให้รองรับภาษาไทยด้วยคำสั่ง `hpk.exe create Local/Thai Local/Thai.hpk`

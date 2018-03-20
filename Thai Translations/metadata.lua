@@ -6,7 +6,7 @@ return PlaceObj('ModDef', {
 	'id', "BjELS2W",
 	'steam_id', "1335965052",
 	'author', "i.am.mutun",
-	'version', 24,
+	'version', 25,
 	'lua_revision', 228003,
 	'loctables', {
 		{
@@ -14,5 +14,5 @@ return PlaceObj('ModDef', {
 			language = "Thai",
 		},
 	},
-	'saved', 1521558051,
+	'saved', 1521563337,
 })

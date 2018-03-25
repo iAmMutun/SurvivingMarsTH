@@ -1,7 +1,7 @@
 # Surviving Mars Thai Translations
 ### สำหรับผู้เล่นที่ต้องการร่วมทดสอบ
 1. กดสมัครสมาชิกบนสตีมเวิร์กชอปที่ http://steamcommunity.com/sharedfiles/filedetails/?id=1335965052
-2. อ่านวิธีการดาวน์โหลดและติดตั้งไฟล์เพิ่มเติมที่ https://github.com/iAmMutun/SurvivingMarsTH/releases/tag/dep1
+2. อ่านวิธีการดาวน์โหลดและติดตั้งไฟล์เพิ่มเติมที่ https://github.com/iAmMutun/SurvivingMarsTH/releases/
 
 ### แปลไทย
 ร่วมแปลภาษาไทยได้ในไฟล์ [Game.csv](Game.csv) กรุณางดแก้ไขไฟล์ Game.csv ในโฟลเดอร์ Thai Translations
@@ -23,5 +23,5 @@
 * นำไฟล์ Thai.hpk ไปเพิ่มไว้ในโฟลเดอร์ย่อย Local ของโฟลเดอร์ที่ติดตั้งเกม
 
 ### tuftmf
-โปรแกรมแก้สระลอย Thai Unicode Floating Tone Marks Fixer (TUFTMT)
+โปรแกรมแก้สระลอย Thai Unicode Floating Tone Marks Fixer (TUFTMF)
 https://github.com/iAmMutun/tuftmf

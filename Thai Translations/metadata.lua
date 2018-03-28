@@ -6,13 +6,13 @@ return PlaceObj('ModDef', {
 	'id', "BjELS2W",
 	'steam_id', "1335965052",
 	'author', "i.am.mutun",
-	'version', 26,
-	'lua_revision', 228003,
+	'version', 27,
+	'lua_revision', 228184,
 	'loctables', {
 		{
 			filename = "Game.csv",
 			language = "Thai",
 		},
 	},
-	'saved', 1521565535,
+	'saved', 1522245469,
 })

@@ -94,33 +94,33 @@ id <u(id)>, version <version></color>",
 1000212,<arg1>:<arg2>:<arg3>,
 1000213,<arg1>:<arg2>,
 1000685,",",
-1000686,Brazilian Portuguese,
-1000687,Bulgarian,
-1000688,Czech,
-1000689,Danish,
-1000690,Dutch,
-1000691,English,
-1000692,Finnish,
-1000693,French,
-1000694,German,
-1000695,Hungarian,
-1000696,Italian,
-1000697,Japanese,
-1000698,Korean,
-1000699,Norwegian,
-1000700,Polish,
-1000701,Portuguese,
-1000702,Romanian,
-1000703,Russian,
-1000704,Chinese (Simplified),
-1000705,Spanish,
-1000706,Swedish,
-1000707,Chinese (Traditional),
-1000708,Thai,ไทย
-1000709,Turkish,
-1000710,Auto,
+1000686,Brazilian Portuguese,ภาษาบราซิลโปรตุเกส
+1000687,Bulgarian,ภาษาบัลแกเรีย
+1000688,Czech,ภาษาเช็ก
+1000689,Danish,ภาษาเดนมาร์ก
+1000690,Dutch,ภาษาดัตช์
+1000691,English,ภาษาอังกฤษ
+1000692,Finnish,ภาษาฟินแลนด์
+1000693,French,ภาษาฝรั่งเศส
+1000694,German,ภาษาเยอรมัน
+1000695,Hungarian,ภาษาฮังการี
+1000696,Italian,ภาษาอิตาลี
+1000697,Japanese,ภาษาญี่ปุ่น
+1000698,Korean,ภาษาเกาหลี
+1000699,Norwegian,ภาษานอร์เวย์
+1000700,Polish,ภาษาโปแลนด์
+1000701,Portuguese,ภาษาโปรตุเกส
+1000702,Romanian,ภาษาโรมาเนีย
+1000703,Russian,ภาษารัสเซีย
+1000704,Chinese (Simplified),ภาษาจีนตัวย่อ
+1000705,Spanish,ภาษาสเปน
+1000706,Swedish,ภาษาสวีเดน
+1000707,Chinese (Traditional),ภาษาจีนตัวเต็ม
+1000708,Thai,ภาษาไทย
+1000709,Turkish,ภาษาตุรกี
+1000710,Auto,อัตโนมัติ
 1000119,<FormatResolution(pt)>,
-1000121,Default,
+1000121,Default,ค่าเริ่มต้น
 1000122,Display,หน้าจอ
 1000123,DISPLAY,หน้าจอ
 1000124,Video,ภาพ
@@ -5598,10 +5598,10 @@ Services: <em><list></em>",
 7951,<ButtonA> Disable storage,
 7952,<ButtonA> Enable storage,
 778,Depleted,
-779,Very low,
-780,Average,
-7358,High,
-781,Very high,
+779,Very low,ต่ำมาก
+780,Average,ปานกลาง
+7358,High,สูง
+781,Very high,สูงมาก
 7,Is Revealed,
 6,Depth Layer,
 784,"<Description><newline><newline><ResourceName><right><resource(amount,max_amount,resource)><newline><left>Grade<right><grade_name>",
@@ -8358,18 +8358,18 @@ There will be challenges to overcome. Are you ready? Mars is waiting for you.",
 3548,Borderless,
 3549,Exclusive,
 3547,Windowed,
-3550,Fullscreen,
-7375,High,
+3550,Fullscreen,โหมดเต็มจอ
+7375,High,สูง
 6843,Custom,
-7376,High,
-7377,High,
+7376,High,สูง
+7377,High,สูง
 3552,70,
 3553,85,
 3554,100,
-7378,High,
-7379,High,
-3551,Ultra,
-7380,High,
+7378,High,สูง
+7379,High,สูง
+3551,Ultra,สูงสุด,
+7380,High,สูง
 6844,Off,ปิด
 3555,FXAA,
 6845,Off,ปิด
@@ -8377,10 +8377,10 @@ There will be challenges to overcome. Are you ready? Mars is waiting for you.",
 7969,4x,
 7970,8x,
 8079,16x,
-7381,High,
-644,Low,
-645,Medium,
-7382,High,
+7381,High,สูง
+644,Low,ต่ำ
+645,Medium,ปานกลาง
+7382,High,สูง
 6846,Off,ปิด
 6847,On,เปิด
 6848,Off,ปิด
@@ -8388,21 +8388,21 @@ There will be challenges to overcome. Are you ready? Mars is waiting for you.",
 6850,Off,ปิด
 3558,FPS,
 3559,ms,
-3560,Move Units,
-3561,Both,
-3562,Fullscreen Mode,
-1601,Resolution,
-3563,Refresh Rate,
+3560,Move Units,เคลื่อนย้าย
+3561,Both,ทั้งคู่
+3562,Fullscreen Mode,โหมดเต็มจอ
+1601,Resolution,ความละเอียด
+3563,Refresh Rate,การรีเฟรช
 3564,Vsync,
-3565,UI Scale,
-3566,Brightness,
-3568,Shadows,
-3569,Textures,
+3565,UI Scale,ขนาด UI
+3566,Brightness,ความสว่าง
+3568,Shadows,เงา
+3569,Textures,พื้นผิว
 3570,Anisotropy,
-3571,Effects,
-3572,Lights,
-3573,Postprocessing,
-3574,Bloom,
+3571,Effects,เอ็ฟเฟ็กต์
+3572,Lights,แสง
+3573,Postprocessing,เทคนิคเพิ่มเติม
+3574,Bloom,แสงสะท้อน
 8034,Eye Adaptation,
 3455,Vignette,
 3575,Antialiasing,
@@ -8410,24 +8410,24 @@ There will be challenges to overcome. Are you ready? Mars is waiting for you.",
 7772,Object Detail,
 3577,Resolution Percent,
 3578,Framerate Counter,
-3579,Master Volume,
-3580,Music,
-3581,Sounds,
-7811,Voice,
-3582,Mute when Minimized,
-3583,Radio Station,
-3584,Invert Mouse Wheel,
-3585,Invert Look,
-3586,Invert Rotation,
-3587,Scroll Outside Window,
-3588,Right-click Action,
-3589,Controller,
-3590,Camera Movement Speed,
-3591,Autosave,
-3592,Hint Notifications,
+3579,Master Volume,ระดับเสียงหลัง
+3580,Music,เพลง
+3581,Sounds,เสียงประกอบ
+7811,Voice,เสียงพูด
+3582,Mute when Minimized,หยุดเสียงเมื่อไม่ได้เล่น
+3583,Radio Station,สถานีวิทยุ
+3584,Invert Mouse Wheel,กลับทิศลูกกลิ้งเมาส์
+3585,Invert Look,กลับทิศการมอง
+3586,Invert Rotation,กลับทิศการหมุน
+3587,Scroll Outside Window,การเลื่อนนอกหน้าต่าง
+3588,Right-click Action,คำสั่งคลิกขวา
+3589,Controller,ใช้คอนโทรลเลเอร์
+3590,Camera Movement Speed,ความเร็วกล้อง
+3591,Autosave,เซฟอัตโนมัติ
+3592,Hint Notifications,คำแนะนำการเล่น
 7544,Display Area Margin,
 8529,Save to Cloud,
-1000102,Language,
+1000102,Language,ภาษา
 7579,Restart the game to display the selected language,
 3593,Folder,
 3594,Silence between tracks (sec),
@@ -8763,7 +8763,7 @@ Some features may not work.",
 3864,"A trained medic, facing new challenges on the red planet.",
 3866,Botanists,
 3867,"A trained botanist, dreaming of a green Mars.",
-669,Auto,
+669,Auto,อัตโนมัติ
 3868,Status effect,
 3870,Homeless Colonist,
 6860,Unemployed Colonist,
@@ -8921,9 +8921,9 @@ Some features may not work.",
 4169,MAPS,
 4170,MARS,
 4171,SPACE,
-1121,Author: <color_pref><value><color_suff>,
-1122,Last Update: <color_pref><value><color_suff>,
-1123,Tags: <color_pref><value><color_suff>,
+1121,Author: <color_pref><value><color_suff>,ผู้สร้าง: <color_pref><value><color_suff>
+1122,Last Update: <color_pref><value><color_suff>,อัพเดทล่าสุด: <color_pref><value><color_suff>
+1123,Tags: <color_pref><value><color_suff>,แท็ก: <color_pref><value><color_suff>
 8689,This mod is disabled due to version incompatibility.,
 4074,This mod requires a newer game version!,
 1124,<tag> (<count>),
@@ -9503,7 +9503,7 @@ Some features may not work.",
 852738262115,Toggle High Speed,
 312752058553,Rotate Building Left,
 694856081085,Rotate Building Right,
-383281603855,Build Menu,
+383281603855,Build Menu,เมนูสร้าง
 786525376837,Map Overview,
 559972871255,Deploy Orbital Probe,
 864744602325,Reset Camera,
@@ -9551,7 +9551,7 @@ Some features may not work.",
 4240,Select buildings / rovers,
 4239,Close / Cancel,
 4236,Pins<newline>(Build menu) Next category,
-4237,Build Menu,
+4237,Build Menu,เมนูสร้าง
 4235,Manage Infopanel<newline>(Hold) Infopanel shortcuts,
 649120194813,<ButtonY>,
 500955334824,<ButtonX>,
@@ -9582,9 +9582,9 @@ Some features may not work.",
 611518845262,<CompleteText>,
 940959765296,"<def(ChallengeScore,'')>",
 1125,TAG: <tag>,
-5458,ALL ON,
-5459,ALL OFF,
-5460,FILTER,
+5458,ALL ON,เปิดทั้งหมด
+5459,ALL OFF,ปิดทั้งหมด
+5460,FILTER,ตัวกรอง
 526116656618,<display_name>,
 1142,Controller Layout,
 7874,Wireless Controller Layout,
@@ -10332,9 +10332,9 @@ Current status: Exports are <em>forbidden</em>.",
 8672,"This version of <em>Surviving Mars</em> doesn't yet support uploading mods you created, but you can test them in the game.",
 1000599,Warning,คำเตือน
 8673,"This version of Surviving Mars doesn't yet support downloading mods. You can, however, try the modding tools to create and load your own mods.",
-4862,Low,
-646,Medium,
-4863,High,
+4862,Low,ต่ำ
+646,Medium,ปานกลาง
+4863,High,สูง
 290290906449,Max base traits generated per Colonist,
 455324213448,MaxColonistTraitsToGenerate,
 715051458672,Increases Comfort Threshold for Social Buildings when used by extroverts,

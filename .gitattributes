@@ -1,0 +1,2 @@
+# Only use LF (\n) in the CSV. Otherwise, the game will display a rectangle in place of CR (\r).
+*.csv text eol=lf
